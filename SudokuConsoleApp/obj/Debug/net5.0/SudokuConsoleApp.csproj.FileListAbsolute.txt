@@ -1,0 +1,32 @@
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.exe
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.deps.json
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.runtimeconfig.json
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.runtimeconfig.dev.json
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.dll
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\ref\SudokuConsoleApp.dll
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.pdb
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.AssemblyInfo.cs
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.dll
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\ref\SudokuConsoleApp.dll
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.pdb
+C:\Users\Ivan Bilokapic\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.dll
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.exe
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.deps.json
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.runtimeconfig.json
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.dll
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\bin\Debug\net5.0\SudokuConsoleApp.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\refint\SudokuConsoleApp.dll
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\SudokuConsoleApp.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\SudokuConsoleApp\obj\Debug\net5.0\ref\SudokuConsoleApp.dll

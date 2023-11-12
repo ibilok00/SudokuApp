@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "603967cf-5bf9-4f41-94f8-62d06b296da8": {
+      "ProjectGuid": "603967cf-5bf9-4f41-94f8-62d06b296da8",
+      "DisplayName": "SudokuConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
